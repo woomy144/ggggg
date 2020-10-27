@@ -4553,7 +4553,7 @@
             id: "f",
             type: "game",
             code: "heroku-worldwide-f",
-            at: p.heroku("scholinik"),
+            at: p.heroku("danger1master"),
             prefer: !0
             // featured: 1, // For Featured Status.
           },
